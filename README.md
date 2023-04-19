@@ -1,4 +1,4 @@
-# Students-CRUD- REST API
+# Students-CRUD-REST API
 # Spring Boot, JPA
 
 Restful CRUD API for a Student using Spring Boot, Mysql, JPA and Hibernate.
@@ -12,11 +12,9 @@ git clone https://github.com/Raghavendra-Thakur/Spring_Student_CRUD.git
 ```
 
 
-**2. Run the app using maven**
+**2. Open Project Using STS IDE or Eclipse IDE**
 
-```bash
-mvn spring-boot:run
-```
+
 The app will start running at <http://localhost:8080>
 
 ## Explore Rest APIs
@@ -57,4 +55,4 @@ Test them using postman or any other rest client.
 }
 ```
 
-![segment](https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJwcDJuOTU4VU1NT21NR090MWJXS0JQd0tFNkcydW51OCIsCiAgInVzZXJJZCI6ICIxMjNibG9nYXBpMTIzIiwKICAiZXZlbnQiOiAiQmxvZ0FwaSB2aXNpdGVkIiwKICAicHJvcGVydGllcyI6IHsKICAgICJzdWJqZWN0IjogIkJsb2dBcGkgdmlzaXRlZCIsCiAgICAiZW1haWwiOiAiY29tcy5zcHVyc0BnbWFpbC5jb20iCiAgfQp9)
+
