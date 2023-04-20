@@ -3,6 +3,11 @@
 
 Restful CRUD API for a Student using Spring Boot, Mysql, JPA and Hibernate.
 
+# Visit following link to read API test documentation
+**Tested Using Postman**
+
+https://documenter.getpostman.com/view/26450292/2s93Y2TNQ8
+
 ## Steps to Setup
 
 **1. Clone the application**
