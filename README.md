@@ -1,7 +1,23 @@
 # Students-CRUD-REST API
-# Spring Boot, JPA
+
 
 Restful CRUD API for a Student using Spring Boot, Mysql, JPA and Hibernate.
+
+# Technology Used
+
+**1. Spring**
+
+**2. Spring Boot**
+
+**3. Spring JPA**
+
+**4. H2 DataBase**
+
+**5. Spring WEB**
+
+**3. JDK 17**
+
+**4. Postman**
 
 # Visit following link to read API test documentation
 **Tested Using Postman**
